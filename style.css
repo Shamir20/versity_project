@@ -1,0 +1,102 @@
+body {
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/08/Desktop-Background-Images-In-HD.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+}
+
+a {
+    text-decoration: none;
+    color: ghostwhite;
+}
+
+#container {
+    
+    width: 1520px;
+    
+}
+
+#content {
+    padding: 20px;
+
+}
+
+#nav {
+    width: 180px;
+    float: left;
+    background-color: darkgray;
+
+
+}
+
+#main {
+    width: 1200px;
+    float: right; 
+    
+   
+
+}
+
+h1 {
+    margin: 0;
+}
+
+#footer  {
+    clear: both;
+    padding: 213px;
+    text-align: end;
+    font-size: 22px;
+    color: cornsilk;
+    
+}
+
+#nav .selected {
+    font-weight: bold;
+    
+}
+
+#nav ul {
+    list-style-type: square;
+    padding: 20px;
+    
+}
+
+.profile-picture {
+    width: 250px;
+    height: 300px;
+    display: block;
+    margin: 0 auto;
+    
+
+}
+
+h2 {
+    margin: 0;
+    
+}
+p {
+    display: block;
+    margin-left: 230px;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cornsilk;
+    
+}
+
+#header {
+    color: cornsilk;
+    display: block;
+    font-weight: bold;
+
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+}
+
+h2 {
+    color: cornsilk;
+}
+
